@@ -6,10 +6,6 @@ import platform.Foundation.NSLog
 import platform.Foundation.NSThread
 import platform.darwin.OS_LOG_DEFAULT
 import platform.darwin.OS_LOG_TYPE_DEBUG
-import platform.darwin.OS_LOG_TYPE_DEFAULT
-import platform.darwin.OS_LOG_TYPE_ERROR
-import platform.darwin.OS_LOG_TYPE_FAULT
-import platform.darwin.OS_LOG_TYPE_INFO
 import platform.darwin.__dso_handle
 import platform.darwin._os_log_internal
 
